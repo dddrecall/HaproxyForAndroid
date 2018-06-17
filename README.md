@@ -1,6 +1,5 @@
 # HaproxyForAndroid
-快速构建Android平台Haproxy可执行文件
-本项目建设的初衷是快速构建出Android平台的Redis相关二进制可执行文件<br/>
+快速构建Android平台Haproxy可执行文件<br/>
 
 Haproxy版本：haproxy-1.8.7<br/>
 二进制文件：haproxy<br/>
